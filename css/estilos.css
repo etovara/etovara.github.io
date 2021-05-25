@@ -1,0 +1,60 @@
+.logoo{
+    display: flex;
+    padding: 5px 0px;
+    border-radius: 25px;
+}
+h1{
+    background:white;
+    margin: -70px 0px 0px 80px ;
+    display: block;
+    padding: 10px 100px;
+    border-radius: 25px;
+    text-align: center;
+}
+.color{
+    color: darkblue;
+}
+.columna{
+    background: white;
+    color: black;
+    padding: 20px;
+    margin: 20px 0px 0px                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         0px;
+    border-radius: 20px;
+    text-align: justify;                                  
+    text-indent: 40px;   
+}
+h2{
+    background: white;
+    color: black;
+    padding: 20px;
+    width: 50%;                    
+    margin: 20px 0px 0px 20px;                                                                                                                  
+    border-radius: 20px;
+    text-align: center;
+}
+.indumentaria{
+    display: flex;
+    margin: 0px 0px 0px 70px;
+    padding: 5px 0px;
+    border-radius: 10px;           
+}
+
+.cuerpo{
+    display: flex;
+}
+.nav-enlace{
+    background: white;
+    color:black;
+    padding: 10px 30px;
+    text-decoration: none;
+}
+.nav-enlace:hover{
+    background:cadetblue ;
+}
+nav{
+    margin: 200px 0px 0px 0px;
+    background: rgb(51, 58, 153);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
